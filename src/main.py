@@ -39,7 +39,7 @@ def search_student(students: list, keyword: str) -> list:
 
 def main():
     print("=" * 50)
-    print("STUDENT MANAGER v1.0 — Team A")
+    print("STUDENT MANAGER v2.0 — Team B")
     print("=" * 50)
 
     students = [
